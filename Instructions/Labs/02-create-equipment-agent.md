@@ -90,7 +90,7 @@ Create a standalone data source for this exercise.
 
 ## Exercise 2 - Prepare the equipment policy
 
-1. Open a text editor and create a file named `contoso-equipment-policy.md`.
+1. Open a Notepad (text editor) and create a file named `contoso-equipment-policy.md`.
 
 1. Add the following content to the file:
 
