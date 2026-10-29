@@ -50,7 +50,7 @@ To complete this exercise, you need:
 
 Create the fictional company guide that the agent uses as a knowledge source.
 
-1. Open a text editor and create a file named `contoso-benefits-guide.md`.
+1. Open a Notepad (text editor) and create a file named `contoso-benefits-guide.md`.
 
 1. Add the following content to the file:
 
